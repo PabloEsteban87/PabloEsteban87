@@ -1,4 +1,4 @@
-<h1>Hola soy Pablo!!, me encanta programar en html y css, aunque también en javascript. He cursado un bootcamp de programador fullstack en factoria F5.</h1>
+<h2>Hola soy Pablo!!, me encanta programar en html y css, aunque también en javascript. He cursado un bootcamp de programador fullstack en factoria F5.</h2>
 
 <h3>Adquiriendo conocimientos en:</h3>
 <ul><li>HTML</li><li>CSS</li><li>SASS</li><li>Javascript</li><li>Typescript</li><li>Java</li></ul>
